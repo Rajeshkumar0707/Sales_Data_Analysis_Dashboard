@@ -41,11 +41,17 @@ Businesses need to understand:
    . Profit analysis
    . Category-wise performance
    
-📈 Key Insights :
-. Identified top-performing products
-. Found high revenue-generating categories
-. Observed monthly and yearly sales trends
-. Analyzed profit distribution
+## ❓ Business Questions Solved
+- Which category generates the highest sales and profit?
+- What are the monthly sales trends?
+- Which products are most profitable?
+- Which region performs best?
+
+## 📈 Key Insights
+- Some categories contribute most of the revenue
+- Sales show clear monthly trends
+- Few products drive major profit
+- Certain regions perform better than others
 
 📊 Dashboard
 Power BI dashboard includes:
